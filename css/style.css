@@ -17,8 +17,8 @@ h1 {
 
 p.subheader {
   font-weight: bold;
-  color: black
-} 
+  color: black;
+}
 
 a {
   text-decoration: none;
@@ -26,7 +26,7 @@ a {
 
 a:link,
 a:visited {
-  color: blue
+  color: blue;
 }
 
 div.footer {
